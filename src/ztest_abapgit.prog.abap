@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_ABAPGIT.
 
-Write:/ 'Test for ABAPGIT'.
+Write:/ 'Test for ABAPGIT123'.
